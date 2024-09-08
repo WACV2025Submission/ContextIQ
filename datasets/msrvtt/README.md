@@ -1,5 +1,4 @@
 ## MSR-VTT
----
 
 MSR-VTT is used as one of the datasets to benchmark ContextIQ and compare with other methods, as mentioned in sec. 4.3 of the paper **ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**.
 
